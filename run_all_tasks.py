@@ -90,13 +90,6 @@ def main():
     else:
         print(f"\n✗ {5 - tasks_completed} task(s) failed. Please check the output above.")
     
-    print("\nProject submission should include:")
-    print("  - Source code (src/ folder)")
-    print("  - Result images (results/ folder)")
-    print("  - Original images (images/ folder)")
-    print("  - This README file")
-    print(f"\nDeadline: June 15, 2026 / 4:00 pm")
-    print(f"Submit to: mahsanlatif@uaf.edu.pk")
 
 if __name__ == "__main__":
     main()
